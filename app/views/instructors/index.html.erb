@@ -1,0 +1,30 @@
+<h1>Listing instructors</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Dob</th>
+    <th>Address</th>
+    <th>Department</th>
+    <th>No course teach</th>
+    <th>Salary</th>
+  </tr>
+
+<% @instructors.each do |instructor| %>
+  <tr>
+    <td><%=h instructor.name %></td>
+    <td><%=h instructor.dob %></td>
+    <td><%=h instructor.address %></td>
+    <td><%=h instructor.department %></td>
+    <td><%=h instructor.no_course_teach %></td>
+    <td><%=h instructor.salary %></td>
+    <td><%= link_to 'Show', instructor %></td>
+    <td><%= link_to 'Edit', edit_instructor_path(instructor) %></td>
+    <td><%= link_to 'Destroy', instructor, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New instructor', new_instructor_path %>

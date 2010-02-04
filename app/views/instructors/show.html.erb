@@ -1,0 +1,33 @@
+<p>
+  <b>Name:</b>
+  <%=h @instructor.name %>
+</p>
+
+<p>
+  <b>Dob:</b>
+  <%=h @instructor.dob %>
+</p>
+
+<p>
+  <b>Address:</b>
+  <%=h @instructor.address %>
+</p>
+
+<p>
+  <b>Department:</b>
+  <%=h @instructor.department %>
+</p>
+
+<p>
+  <b>No course teach:</b>
+  <%=h @instructor.no_course_teach %>
+</p>
+
+<p>
+  <b>Salary:</b>
+  <%=h @instructor.salary %>
+</p>
+
+
+<%= link_to 'Edit', edit_instructor_path(@instructor) %> |
+<%= link_to 'Back', instructors_path %>

@@ -1,0 +1,26 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+
+PERLTA_230:
+  building: PERLTA
+  name: 230
+  
+  
+SANTN_120:
+  building: SANTN
+  name: 120
+  
+PERLTA_201:
+  building: PERLTA
+  name: 201
+  
+  
+SANTN_150:
+  building: SANTN
+  name: 150
+  
+    
+CNTR_152:
+  building: CNTR
+  name: 152
+ 

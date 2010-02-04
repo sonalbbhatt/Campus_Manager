@@ -1,0 +1,36 @@
+<h1>Editing instructor</h1>
+
+<% form_for(@instructor) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :dob %><br />
+    <%= f.date_select :dob %>
+  </p>
+  <p>
+    <%= f.label :address %><br />
+    <%= f.text_field :address %>
+  </p>
+  <p>
+    <%= f.label :department %><br />
+    <%= f.text_field :department %>
+  </p>
+  <p>
+    <%= f.label :no_course_teach %><br />
+    <%= f.text_field :no_course_teach %>
+  </p>
+  <p>
+    <%= f.label :salary %><br />
+    <%= f.text_field :salary %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @instructor %> |
+<%= link_to 'Back', instructors_path %>

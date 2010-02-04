@@ -1,0 +1,57 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+st_joe:
+  user: joe 
+  course: cst_420
+  name: Joe Thomas
+  dob: 1980-03-03
+  address: 7876 jhioeurjfdffhhgjg
+  st_level: graduate
+
+st_julia:
+  user: julia
+  course: cst_554
+  name: Julia Stout
+  dob: 1985-03-03
+  address: defghdfsdf
+  st_level: Undergraduate
+
+st_tommy:
+  user: tommy 
+  course: cst_460
+  name: Tommy Pit
+  dob: 1980-03-03
+  address: 898 jhioeurjfdffhhgjg
+  st_level: graduate
+
+st_rachel:
+  user: rachel
+  course: cst_556
+  name: Rachel Stout
+  dob: 1985-05-13
+  address: 45 sfsafsdfsdf
+  st_level: Undergraduate
+  
+st_jacky:
+  user: jacky
+  course: cst_533
+  name: Jacky Millard
+  dob: 1985-02-07
+  address: 78 jhioeurjfdffhhgjg
+  st_level: graduate
+
+st_suhas:
+  user: suhas
+  course: 
+  name: Suhas Verma
+  dob: 1982-06-12
+  address: defghdfsfsfsdfsdfsdf
+  st_level: graduate
+  
+st_bruce:
+  user: bruce
+  course: 
+  name: Bruce House
+  dob: 1983-03-23
+  address: defgdsfsdfhdfsdf
+  st_level: graduate

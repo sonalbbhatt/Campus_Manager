@@ -1,0 +1,7 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+spring_2010:
+  
+  name: Spring_2010
+  st_date: 2010-01-19
+  end_date: 2010-05-15

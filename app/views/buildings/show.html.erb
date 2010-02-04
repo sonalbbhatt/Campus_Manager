@@ -1,0 +1,18 @@
+<p>
+  <b>Code:</b>
+  <%=h @building.code %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%=h @building.name %>
+</p>
+
+<p>
+  <b>Desc:</b>
+  <%=h @building.desc %>
+</p>
+
+
+<%= link_to 'Edit', edit_building_path(@building) %> |
+<%= link_to 'Back', buildings_path %>

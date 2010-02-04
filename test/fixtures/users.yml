@@ -1,0 +1,62 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+joe:
+  u_name: joethomas
+  password: joethomas
+  email_id: joethomas@asu.edu
+  
+juan:
+  u_name: juancedeno
+  password: juancedeno
+  email_id: juancedeno@asu.edu
+
+julia:
+  u_name: juliastout
+  password: juliastout
+  email_id: juliastout@asu.edu
+  
+yen:
+  u_name: yenli
+  password: yenli
+  email_id: yenli@asu.edu  
+
+suhas:
+  u_name: suhasverma
+  password: suhasverma
+  email_id: suhasverma@asu.edu
+  
+jacky:
+  u_name: jackymillard
+  password: jackymillard
+  email_id: jackymillard@asu.edu  
+  
+nick:
+  u_name: nickwills
+  password: nickwills
+  email_id: nickwills@asu.edu  
+  
+tommy:
+  u_name: tommypit
+  password: tommypit
+  email_id: tommypit@asu.edu  
+  
+bruce:
+  u_name: brucehouse
+  password: brucehouse
+  email_id: brucehouse@asu.edu
+  
+cristina:
+  u_name: cristinaroberts
+  password: cristinaroberts
+  email_id: cristinaroberts@asu.edu  
+  
+mike:
+  u_name: mikethomas
+  password: mikethomas
+  email_id: mikethomas@asu.edu  
+  
+rachel:
+  u_name: rachelstout
+  password: rachelstout
+  email_id: rachelstout@asu.edu  
+  

@@ -1,0 +1,52 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+
+inst_yen:
+  user: yen 
+  course: cst_556
+  name: Yen Li
+  dob: 1970-03-03
+  address: 7 jhioeurjfdffhhgjg
+  department: Computing Studies
+  no_course_teach: 1
+  salary:
+  
+inst_juan:
+  user: juan 
+  course: cst_420
+  name: Juan Cedano
+  dob: 1972-03-03
+  address: jhyguyhh
+  department: Computing Studies
+  no_course_teach: 1
+  salary:
+  
+inst_mike:
+  user: mike 
+  course: cst_533
+  name: Mike Thomas
+  dob: 1975-10-05
+  address: 654 dsdfsdfsd
+  department: Computing Studies
+  no_course_teach: 1
+  salary:
+  
+inst_nick:
+  user: nick
+  course: cst_460
+  name: Nick Wills
+  dob: 1972-02-12
+  address: 7222 kldjkljk
+  department: Computing Studies
+  no_course_teach: 1
+  salary:
+  
+inst_cristina:
+  user: cristina 
+  course: cst_554
+  name: Cristina Roberts
+  dob: 1965-12-03
+  address: 345 dfdfafd
+  department: Computing Studies
+  no_course_teach: 1
+  salary:

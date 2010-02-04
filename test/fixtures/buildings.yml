@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+PERLTA:
+  code: PERLTA
+  name: Peralta Hall
+  desc: 7121, Peralata Hall
+  
+SANTN:
+  code: SANTN
+  name: Santan Hall
+  desc: 7123, Santan Hall
+  
+CNTR:
+  code: CNTR
+  name: Center
+  desc: 
+  
+
+  

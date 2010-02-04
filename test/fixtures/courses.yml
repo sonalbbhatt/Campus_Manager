@@ -1,0 +1,59 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+cst_420_joe:
+  student: st_joe
+  instructor: inst_juan
+  room: PERLTA_230
+  semester: spring_2010
+  section_no: 43243
+  code: CST420
+  name: Fdn of distributed Application in Java
+  description:
+  time:
+ 
+    
+cst_556_rachel:
+  student: st_rachel
+  instructor: inst_yen
+  room: SANTN_120
+  semester: spring_2010
+  section_no: 12345
+  code: CST556
+  name: Distributed Application in Windows
+  description:
+  time:
+  
+  
+cst_554_julia:
+  student: st_julia
+  instructor: inst_cristina
+  room: PERLTA_201
+  semester: spring_2010
+  section_no: 14325
+  code: CST554
+  name: Distributed Computing
+  description:
+  time:
+  
+cst_533_jacky:
+  student: st_jacky
+  instructor: inst_mike
+  room: CNTR_152
+  semester: spring_2010
+  section_no: 56178
+  code: CST533
+  name: Database Cetnric Appliction
+  description:
+  time:
+  
+cst_460_tommy:
+  student: st_tommy
+  instructor: inst_nick
+  room: SANTN_150
+  semester: spring_2010
+  section_no: 53219
+  code: CST460
+  name: Intro to Computer Graphics Applications
+  description:
+  time:
+  
